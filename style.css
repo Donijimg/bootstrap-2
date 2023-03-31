@@ -1,0 +1,15 @@
+html,body{
+    height: 100%;
+    width: 100%;}
+
+
+body{
+    background-image:url(./pexels-engin-akyurt-2092075.jpg)!important; 
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+form{
+    color:white !important;
+
+}
